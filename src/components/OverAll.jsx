@@ -1,7 +1,7 @@
 import React from 'react';
 import Form from './Form'
 
-export default class ParentComponent extends React.Component {
+export default class OverAll extends React.Component {
   state = {
     firstName: "",
     lastName: "",
