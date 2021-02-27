@@ -24,7 +24,7 @@ class ParentComponent extends React.Component {
       <div>
         <Form
           formData={this.state.firstName}
-          formData={this.state.lasttName}
+          formData={this.state.lastName}
           handleFirstNameChange={this.handleFirstNameChange}
           handleLastNameChange={this.handleLastNameChange}
         />
