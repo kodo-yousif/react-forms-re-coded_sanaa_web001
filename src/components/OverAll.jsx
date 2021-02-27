@@ -26,7 +26,8 @@ export default class OverAll extends React.Component {
     })
   }}
         />
-        <DisplayData formData={this.state} />
+        <Data FName={this.state.firstName}
+          LName={this.state.lastName} />
       </div>
     )
   }
