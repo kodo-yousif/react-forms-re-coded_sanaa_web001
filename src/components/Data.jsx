@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class DisplayData extends React.Component {
+export default class Data extends React.Component {
   render() {
     return (
       <div>
