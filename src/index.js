@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ParentComponent from './components/OverAll'
+import OverAll from './components/OverAll'
 ReactDOM.render(
   <div>
-    <Form />
+    <OverAll />
   </div>,
   document.getElementById('root')
 );
