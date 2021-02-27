@@ -13,7 +13,7 @@ export default class Form extends React.Component {
           <input
             type="text"
             onChange={event => this.props.handleLastNameChange(event)}
-            value={this.props.LastName}
+            value={this.props.LName}
           />
         </form>
       </div>
