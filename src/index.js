@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ParentComponent from './components/ParentComponent'
+import ParentComponent from './components/OverAll'
 ReactDOM.render(
   <div>
     <Form />
