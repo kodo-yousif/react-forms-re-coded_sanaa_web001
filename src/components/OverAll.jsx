@@ -1,6 +1,6 @@
 import React from 'react';
 import Form from './Form'
-
+import Data from './Data'
 export default class OverAll extends React.Component {
   state = {
     firstName: "",
